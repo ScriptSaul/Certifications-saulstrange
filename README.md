@@ -31,3 +31,10 @@ List of completed certifications and ongoing education 💻📚🧠
 
 <img width="1100" height="700" alt="LearnJavascriptCert" src="https://github.com/user-attachments/assets/f30783fb-197e-44d1-8d4e-662cfcf03d62" />
 
+
+
+
+In Progress...
+
+  - Typescript
+  - Advanced Javascript
